@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://safii.netlify.app"
 languageCode: en-us
 title:  Personal Website
 theme: PaperMod
