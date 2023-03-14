@@ -25,7 +25,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "img/ruangan.webp" # image path/url
+    image: img/ruangan.webp # image path/url
     alt: "ruangan" # alt text
     caption: "ruangn" # display caption under cover
     relative: false # when using page bundles set this to true
