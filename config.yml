@@ -74,11 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Selamat datang di situs web pribadi saya, Anwar Safi'i! Saya sangat senang bisa berbagi informasi tentang diri saya dan pengalaman saya di sini. Saya adalah seorang profesional yang berfokus pada bidang teknologi informasi dan pengembangan perangkat lunak. Saya memiliki keahlian dalam bahasa pemrograman seperti Java, Python, dan C++, serta pengalaman dalam mengembangkan aplikasi web dan mobile.
-
-Situs web ini dirancang untuk memperkenalkan diri saya, memberikan informasi tentang latar belakang pendidikan dan pekerjaan saya, serta membagikan pemikiran dan pengalaman saya di bidang teknologi informasi. Saya juga akan membagikan tips dan trik yang dapat membantu Anda meningkatkan keterampilan teknis Anda.
-
-Terima kasih sudah berkunjung ke situs web saya, dan jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin berdiskusi tentang proyek atau ide teknologi apa pun!
+    Content: Selamat datang di situs web pribadi saya, Anwar Safi'i! Saya sangat senang bisa berbagi informasi tentang diri saya dan pengalaman saya di sini. Saya adalah seorang profesional yang berfokus pada bidang teknologi informasi dan pengembangan perangkat lunak. Saya memiliki keahlian dalam bahasa pemrograman seperti Java, Python, dan C++, serta pengalaman dalam mengembangkan aplikasi web dan mobile. Situs web ini dirancang untuk memperkenalkan diri saya, memberikan informasi tentang latar belakang pendidikan dan pekerjaan saya, serta membagikan pemikiran dan pengalaman saya di bidang teknologi informasi. Saya juga akan membagikan tips dan trik yang dapat membantu Anda meningkatkan keterampilan teknis Anda. Terima kasih sudah berkunjung ke situs web saya, dan jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin berdiskusi tentang proyek atau ide teknologi apa pun!
 
   socialIcons:
     - name: twitter
