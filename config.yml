@@ -78,11 +78,13 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://twitter.com/anwarsO_o"
+    - name: instagram
+      url: "https://instagram.com/anwar_pi"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/AnwarSafii"
+    - name: youtube
+      url: "https://youtube.com/"
 
   analytics:
     google:
@@ -115,16 +117,16 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: example
-      name: example.org
-      url: https://example.org
+      name: AnotherSite
+      url: https://otatik.com
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
