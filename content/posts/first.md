@@ -26,8 +26,8 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
     image: img/ruangan.webp # image path/url
-    alt: "ruangan" # alt text
-    caption: "ruangn" # display caption under cover
+    alt: 'ruangan' # alt text
+    caption: 'ruangn' # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
