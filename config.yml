@@ -1,4 +1,4 @@
-baseURL: "https://anwars.my.id/"
+baseURL: "https://anwars.my.id"
 title: Anwar Safi'i
 paginate: 5
 theme: PaperMod
@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Anwar"
+    text: "Anwar Safi'i"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -70,19 +70,6 @@ params:
         url: posts
       - name: Tags
         url: tags
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
-
-  socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
 
   analytics:
     google:
