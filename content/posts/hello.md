@@ -5,7 +5,7 @@ draft: false
 cover:
     image: img/ruangan.webp
     alt: 'ruangan'
-    caption: 'ruangn'
+    caption: 'ruangan'
 ---
 
 # This is a heading one
