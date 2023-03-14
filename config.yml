@@ -19,7 +19,7 @@ params:
   title: Anwar Safi'i
   description: "Anwar Safi'i description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Anwar
+  author: Anwar Safi'i
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
